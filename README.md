@@ -5,8 +5,14 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
+  <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Sanches-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-da-silva-0461b6165/)](https://www.linkedin.com/in/guilherme-sanches-da-silva-0461b6165)
 </p>
+
+---
+   Projeto foi desenvolvido na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**
+---
 
 <br>
 
@@ -48,10 +54,13 @@
 
 <h2 align="center">Como Usar</h2>
 
-   <p align="center">
+   <p>
      Em primeiro lugar, configure corretamente o ambiente de desenvolvimento Flutter em sua máquina, para isso acesse o link abaixo:
+
    - <a href="https://flutter.dev/docs/get-started/install">Flutter Install</a>   
+   
    </p>
+
 
    ```     
    - Clone este repositório:
@@ -74,14 +83,3 @@
 <p align="center">
    Este repositório está sob licença MIT. Para mais detalhes acesso o arquivo: <a href="https://github.com/Guysanches/DevQuiz/blob/main/LICENSE">LICENSE</a>. 
 </p>
-
-
-   >Projeto foi desenvolvido na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>   
-
----
-
-   <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Sanches-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-da-silva-0461b6165/)](https://www.linkedin.com/in/guilherme-sanches-da-silva-0461b6165)
-
-   </div>
